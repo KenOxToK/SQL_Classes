@@ -4,4 +4,4 @@
  duracao INT NOT NULL,
  periodo VARCHAR (30) NUll);
  
- SELECT * FROM curso 
+ SELECT * FROM cursos 
